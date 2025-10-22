@@ -51,23 +51,41 @@ The project showcases a **complete client-ready front-end website** built for re
 
 ---
 
-## 🧩 Folder Structure
+## 🧑‍💻 Developer’s Note
 
-```plaintext
-avex/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── images/
-│       ├── logo.png
-│       └── salon/
-│           ├── haircut.jpg
-│           ├── beard.jpg
-│           └── interior.jpg
-└── README.md
+"This isn’t just code — it’s craft.
+AVEX was built with the idea that even the smallest local business deserves a global digital identity."
+
+🧔 Author: Shree Avinash Ugale
+
+📧 Contact: shreeugale123@gmail.com
+
+📍 Location: Sangamner, Maharashtra, India
+
+## 🪪 License
+
+Licensed under the MIT License — feel free to use, modify, and share this project with credit.
+See the LICENSE
+ file for details.
+
+💖 Acknowledgments
+
+A heartfelt thank-you to:
+
+Friends who inspired the brand identity
+
+Qwicit for simplifying development
+
+Every client who believes grooming is an art
+
+## 🌟 Show Support
+
+If you like this project, please consider:
+
+⭐ Starring the repository
+
+💬 Sharing feedback in Issues
+
+🔁 Forking it and adding your creative twist
+
+AVEX isn’t just a website — it’s a story of simplicity, creativity, and pride in craft.
